@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="thankyou">Thank you, Twitter4J!</string>
+    <string name="app_name">Sample01</string>
+</resources>
